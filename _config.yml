@@ -1,19 +1,4 @@
-name: tc
-favicon: null
-layout_spectrum: 0.03100273129530251
 typography_spectrum: 0.02365709119476378
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#FF6700'
@@ -25,4 +10,20 @@ color:
   lightness: 0.16242219018749893
   saturation: 0.454937762580812
   rhythmicContrast: 0.35211424715816975
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.03100273129530251
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: tc
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Superhero Pythons
 purpose: []
